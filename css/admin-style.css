@@ -1,0 +1,26 @@
+img {
+	max-width: 100%;
+}
+a.remove-image {
+    display: inline-block;
+    margin-top: 10px;
+    position: relative;
+    vertical-align: bottom;
+    line-height: 20px;
+    color: #cc444d;
+    font-weight: 600;
+    border: 1px solid;
+    padding: 2px 5px;
+    cursor: pointer;
+}
+a.remove-image:before {
+    content: "\f182";
+    font-family: dashicons;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 3px;
+    font-weight: normal;
+}
+a.remove-image:hover {
+	color: red;
+}

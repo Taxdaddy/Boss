@@ -1,0 +1,19 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_the100">
+    <key name="the100_header_top_text" />
+    <key name="the100_header_main_text" />
+    <key name="the100_home_featured_title" />
+    <key name="the100_home_featured_desc" />
+    <key name="the100_home_team_title" />
+    <key name="the100_home_team_desc" />
+    <key name="the100_home_gallery_title" />
+    <key name="the100_home_gallery_desc" />
+    <key name="the100_home_testimonial_title" />
+    <key name="the100_home_partner_title" />
+    <key name="the100_home_blog_title" />
+    <key name="the100_home_blog_desc" />
+    <key name="the100_footer_main_text" />
+</key>
+</admin-texts>
+</wpml-config>

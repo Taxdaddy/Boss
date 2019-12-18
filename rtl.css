@@ -1,0 +1,40 @@
+/** RTL CSS - The100 */
+.main-navigation,
+.lay-one .header-text-wrap,
+.site-header.lay-two .htext-soc-wrap,
+.site-header.lay-two .text-search-cart-wrap,
+.site-header.lay-three .soc-cart-search-wrap,
+.site-header.lay-four .ed-social-icons,
+.site-header.lay-five .soc-cart-search-wrap,
+.main-footer .footer-menu {
+	text-align: left;
+}
+.the100-template1 h2.section-title, 
+.the100-template2 h2.section-title,
+.the100-template1 .section-desc, 
+.the100-template2 .section-desc,
+.the100-template3 .caption-left .slider-caption,
+.the100-template4 .slider .caption-wrapper.caption-left .slider-caption,
+.site-header.lay-two .main-navigation {
+	text-align: right;
+}
+.widget_the100_promo .lay-one.has-image .caption {
+	padding-right: 70px;	
+}
+.caption-wrapper .small-caption:after {
+	left: inherit;
+	right:0;
+}
+.site-header.lay-two .ed-social-icons {
+	margin-left: 0;
+	margin-right: 30px;
+}
+.site-header.lay-two .menu-text-wrap {
+	text-align: right;
+	margin-right: 0px;
+	margin-left: 20px;
+	border-left: none;
+	border-right: 1px solid rgba(255,255,255,0.2);
+	padding-right: 20px;
+	padding-left: 0;
+}

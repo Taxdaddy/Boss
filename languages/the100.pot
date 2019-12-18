@@ -1,0 +1,1329 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-22 05:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: footer.php:38
+msgid " by 8Degree Themes"
+msgstr ""
+
+#: header.php:81 header.php:178 templates/template-boxed.php:86
+#: templates/template-boxed.php:186 templates/template-grid.php:94
+#: templates/template-grid.php:194 templates/template-list-full.php:94
+#: templates/template-list-full.php:194
+#, php-format
+msgid "%s Item"
+msgid_plural "%s Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/assets/footer-settings.php:51
+msgid "1"
+msgstr ""
+
+#: inc/assets/footer-settings.php:52
+msgid "2"
+msgstr ""
+
+#: inc/assets/footer-settings.php:53
+msgid "3"
+msgstr ""
+
+#: inc/assets/footer-settings.php:54
+msgid "4"
+msgstr ""
+
+#: 404.php:25
+msgid "404"
+msgstr ""
+
+#. Author of the theme
+msgid "8DegreeThemes"
+msgstr ""
+
+#: inc/widgets/the100_cta.php:22
+msgid "A widget that Gives field to add image and text"
+msgstr ""
+
+#: inc/assets/home-settings.php:444
+msgid "About & Service Section"
+msgstr ""
+
+#: welcome/the100_about.php:57 welcome/the100_about.php:59
+msgid "About The100"
+msgstr ""
+
+#: inc/the100_sanitizer.php:161 inc/assets/inner-settings.php:76
+msgid "Above Content"
+msgstr ""
+
+#: functions.php:139
+msgid "Above Footer Area"
+msgstr ""
+
+#: inc/assets/home-settings.php:754
+msgid "Above Footer CTA"
+msgstr ""
+
+#: welcome/step-demo.php:45 welcome/step-second.php:32
+#: welcome/the100_about.php:14
+msgid "Activate"
+msgstr ""
+
+#: welcome/the100_about.php:15
+msgid "Activated"
+msgstr ""
+
+#: inc/assets/home-settings.php:169 inc/assets/home-settings.php:756
+msgid "Add contents from Widgets on this section."
+msgstr ""
+
+#: inc/assets/home-settings.php:520
+msgid "Add counters from Widgets on this section."
+msgstr ""
+
+#: inc/assets/footer-settings.php:92
+msgid "Add Custom Menu from Appearance > Widgets > Footer Menu widget area."
+msgstr ""
+
+#: inc/assets/footer-settings.php:31
+msgid "Add widgets from Appearance > Widgets > Top Footer widget area."
+msgstr ""
+
+#: functions.php:105 functions.php:114 functions.php:123 functions.php:132
+#: functions.php:141 functions.php:150 functions.php:159
+msgid "Add widgets here."
+msgstr ""
+
+#. Name of the template
+msgid "Archive Grid"
+msgstr ""
+
+#. Name of the template
+msgid "Archive List large"
+msgstr ""
+
+#: inc/assets/inner-settings.php:14
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/assets/inner-settings.php:41
+msgid "Archive Posts Layout"
+msgstr ""
+
+#: welcome/the100_about.php:18
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: inc/assets/home-settings.php:122
+msgid "Auto Play"
+msgstr ""
+
+#: inc/assets/home-settings.php:139
+msgid "Auto Play Speed"
+msgstr ""
+
+#: inc/assets/home-settings.php:548
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Basic Settings"
+msgstr ""
+
+#: functions.php:121
+msgid "Below Slider Area"
+msgstr ""
+
+#: inc/assets/home-settings.php:167
+msgid "Below Slider Text"
+msgstr ""
+
+#: inc/the100_sanitizer.php:162 inc/assets/inner-settings.php:77
+msgid "Beside Content"
+msgstr ""
+
+#: inc/assets/home-settings.php:730
+msgid "Blog Section Description"
+msgstr ""
+
+#: inc/assets/home-settings.php:719
+msgid "Blog Section Title"
+msgstr ""
+
+#: inc/assets/home-settings.php:671
+msgid "Blog Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Boxed Homepage"
+msgstr ""
+
+#: inc/customizer.php:95 inc/the100_sanitizer.php:8
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/the100_sanitizer.php:105 inc/assets/home-settings.php:159
+msgid "Center Aligned"
+msgstr ""
+
+#: welcome/the100_about.php:107
+msgid "Changelog"
+msgstr ""
+
+#: welcome/the100_about.php:478
+msgid "Charity Demo"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Charity Demo Layout"
+msgstr ""
+
+#: welcome/step-first.php:30
+msgid "Check our documentation"
+msgstr ""
+
+#: welcome/step-third.php:28
+msgid ""
+"Check our yoututbe video tutorials on setting up themes as well as general "
+"setups. Do not forget to Subscribe to get more videos notifications."
+msgstr ""
+
+#: inc/assets/footer-settings.php:48
+msgid "Choose Columns on top footer"
+msgstr ""
+
+#: inc/assets/home-settings.php:154
+msgid "Choose how to show titles and description over Slider"
+msgstr ""
+
+#: inc/assets/inner-settings.php:73
+msgid "Choose image layout for archive posts"
+msgstr ""
+
+#: inc/widgets/the100_cta.php:65
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/assets/inner-settings.php:29
+msgid "Choose Layout for Archive Page"
+msgstr ""
+
+#: inc/assets/inner-settings.php:56
+msgid "Choose layout for archive posts"
+msgstr ""
+
+#: inc/assets/inner-settings.php:101
+msgid "Choose Layout for Woocommerce Page"
+msgstr ""
+
+#: inc/the100_metabox.php:57
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Choose Template"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid ""
+"Choose template for your Site. This setting will be applied for your Whole "
+"site.Some sections may not work properly in different template than demo."
+msgstr ""
+
+#: inc/customizer.php:91
+msgid ""
+"Choose weblayout for your Site. This setting will be applied for your Whole "
+"site."
+msgstr ""
+
+#: welcome/the100_about.php:441
+msgid "Classic Demo"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Classic Demo Layout"
+msgstr ""
+
+#: welcome/step-first.php:13 welcome/step-first.php:14
+msgid "Click here if you need help!"
+msgstr ""
+
+#: welcome/step-first.php:24
+msgid "Click Me to import demo contents."
+msgstr ""
+
+#: welcome/step-first.php:16
+msgid "Click Me to install recommended plugins."
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: welcome/the100_about.php:450
+msgid "Construction Demo"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Construction Demo Layout"
+msgstr ""
+
+#: welcome/step-third.php:5 welcome/step-third.php:9
+msgid "Contact Support"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/assets/footer-settings.php:76
+msgid "Copyright Texts on Main footer"
+msgstr ""
+
+#: inc/assets/home-settings.php:518
+msgid "Counter Section"
+msgstr ""
+
+#: welcome/step-first.php:13
+msgid "Create a post, post category, page."
+msgstr ""
+
+#: welcome/step-first.php:39
+msgid "Customize everything"
+msgstr ""
+
+#: welcome/step-demo.php:39 welcome/step-second.php:36
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/the100_about.php:17
+msgid "Demo Installed"
+msgstr ""
+
+#: welcome/step-third.php:15
+msgid "Documentation"
+msgstr ""
+
+#: welcome/step-demo.php:3
+msgid ""
+"Download plugin from here: <a href=\"https://github."
+"com/8degreethemes/instant-demo-importer/archive/master.zip\">IDM</a> Or you "
+"can use One Click Demo Import Plugin to import the demo contents, the files "
+"can be found inside folder : <b>the100/welcome/demo</b>"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/assets/home-settings.php:457
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:768
+msgid "Enable Above Footer CTA"
+msgstr ""
+
+#: inc/assets/home-settings.php:181
+msgid "Enable Below Slider Text"
+msgstr ""
+
+#: inc/assets/home-settings.php:685
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:532
+msgid "Enable Counter"
+msgstr ""
+
+#: inc/assets/home-settings.php:207
+msgid "Enable Featured Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:375
+msgid "Enable Gallery Section"
+msgstr ""
+
+#: inc/assets/footer-settings.php:90
+msgid "Enable Main Footer Menu"
+msgstr ""
+
+#: inc/assets/header-settings.php:139
+msgid "Enable Main Header Cart Icon"
+msgstr ""
+
+#: inc/assets/header-settings.php:157
+msgid "Enable Main Header Search Icon"
+msgstr ""
+
+#: inc/assets/home-settings.php:631
+msgid "Enable Partner Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:29
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/assets/home-settings.php:291
+msgid "Enable Team Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:597
+msgid "Enable Testimonial Section"
+msgstr ""
+
+#: inc/assets/footer-settings.php:29
+msgid "Enable Top Footer"
+msgstr ""
+
+#: inc/assets/header-settings.php:58
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/assets/header-settings.php:92
+msgid "Enable Top Header Social Icons"
+msgstr ""
+
+#: inc/widgets/the100_cta.php:59
+msgid "Enter Button Text"
+msgstr ""
+
+#: inc/widgets/the100_cta.php:47
+msgid "Enter Description"
+msgstr ""
+
+#: inc/widgets/the100_cta.php:53
+msgid "Enter Link"
+msgstr ""
+
+#: inc/assets/header-settings.php:126
+msgid ""
+"Enter texts like contact number,email, location to show in main header "
+"beside menu.Supports Html"
+msgstr ""
+
+#: inc/assets/header-settings.php:79
+msgid ""
+"Enter texts like contact number,email, location to show in top header."
+"Supports Html"
+msgstr ""
+
+#: 404.php:24
+msgid "ERROR"
+msgstr ""
+
+#: welcome/the100_about.php:312 welcome/the100_about.php:399
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: welcome/step-first.php:31
+msgid ""
+"Even if you're a long-time WordPress user, we still believe you should give "
+"our documentation a very quick Read."
+msgstr ""
+
+#: welcome/the100_about.php:469
+msgid "Events Demo"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Events Demo Layout"
+msgstr ""
+
+#: inc/assets/social-settings.php:19
+msgid "Facebook"
+msgstr ""
+
+#: inc/the100_sanitizer.php:34 inc/assets/home-settings.php:108
+msgid "Fade"
+msgstr ""
+
+#: inc/assets/home-settings.php:234
+msgid "Featured Section Description"
+msgstr ""
+
+#: inc/assets/home-settings.php:223
+msgid "Featured Section Title"
+msgstr ""
+
+#: inc/assets/home-settings.php:193
+msgid "Featured Settings"
+msgstr ""
+
+#: welcome/step-first.php:11
+msgid "Follow below actions"
+msgstr ""
+
+#: functions.php:157
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/assets/footer-settings.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: footer.php:37
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: welcome/step-first.php:33
+msgid "Full documentation"
+msgstr ""
+
+#: inc/customizer.php:94 inc/the100_sanitizer.php:7
+msgid "Full Width"
+msgstr ""
+
+#: inc/assets/home-settings.php:420
+msgid "Gallery Section Description"
+msgstr ""
+
+#: inc/assets/home-settings.php:409
+msgid "Gallery Section Title"
+msgstr ""
+
+#: inc/assets/home-settings.php:361
+msgid "Gallery Settings"
+msgstr ""
+
+#: welcome/the100_about.php:271
+msgid "Get started with The100"
+msgstr ""
+
+#: welcome/the100_about.php:91
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/step-first.php:42
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/the100_sanitizer.php:79 inc/assets/inner-settings.php:60
+msgid "Grid View"
+msgstr ""
+
+#: inc/assets/header-settings.php:14 inc/assets/header-settings.php:29
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/assets/header-settings.php:7
+msgid "Header Settings"
+msgstr ""
+
+#: functions.php:130
+msgid "Home Counter Area"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: inc/assets/home-settings.php:7
+msgid "Homepage Settings"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://8degreethemes.com"
+msgstr ""
+
+#. URI of the theme
+#: footer.php:37
+msgid "https://8degreethemes.com/wordpress-themes/the100/"
+msgstr ""
+
+#: welcome/step-first.php:23
+msgid ""
+"If you like to have a site as similar like our demo then, go to Import Demo "
+"tab and do the needfuls."
+msgstr ""
+
+#: welcome/the100_about.php:99
+msgid "Import Demo"
+msgstr ""
+
+#: welcome/step-first.php:22
+msgid "Import Demo Contents"
+msgstr ""
+
+#: inc/assets/inner-settings.php:7
+msgid "Inner Page Settings"
+msgstr ""
+
+#: inc/assets/social-settings.php:49
+msgid "Instagram"
+msgstr ""
+
+#: welcome/step-second.php:28 welcome/step-second.php:43
+msgid "Install"
+msgstr ""
+
+#: welcome/step-demo.php:15 welcome/step-demo.php:52
+#, php-format
+msgid "Install : %s Plugin"
+msgstr ""
+
+#: welcome/step-demo.php:33
+msgid "Install and Activate"
+msgstr ""
+
+#: welcome/step-first.php:15
+msgid "Install required/recommerded plugins (if any)."
+msgstr ""
+
+#: welcome/the100_about.php:16
+msgid "Installing Demo"
+msgstr ""
+
+#: welcome/the100_about.php:34
+msgid "Instant Demo Importer"
+msgstr ""
+
+#: welcome/the100_about.php:40
+msgid ""
+"Instant Demo Importer Plugin adds the feature to Import the Demo Conent with "
+"a single click."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/the100_sanitizer.php:122 inc/assets/header-settings.php:36
+msgid "Layout Five"
+msgstr ""
+
+#: inc/assets/home-settings.php:473
+msgid "Layout for About Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:246
+msgid "Layout for Featured Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:393
+msgid "Layout for Gallery Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:348
+msgid "Layout for Team Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:571 inc/assets/home-settings.php:702
+msgid "Layout for this section"
+msgstr ""
+
+#: inc/the100_sanitizer.php:121 inc/assets/header-settings.php:35
+#: inc/assets/home-settings.php:252 inc/assets/home-settings.php:708
+msgid "Layout Four"
+msgstr ""
+
+#: inc/the100_sanitizer.php:118 inc/assets/header-settings.php:32
+#: inc/assets/home-settings.php:249 inc/assets/home-settings.php:351
+#: inc/assets/home-settings.php:396 inc/assets/home-settings.php:476
+#: inc/assets/home-settings.php:574 inc/assets/home-settings.php:705
+#: inc/widgets/the100_cta.php:67
+msgid "Layout One"
+msgstr ""
+
+#: inc/the100_sanitizer.php:120 inc/assets/header-settings.php:34
+#: inc/assets/home-settings.php:251 inc/assets/home-settings.php:353
+#: inc/assets/home-settings.php:707 inc/widgets/the100_cta.php:69
+msgid "Layout Three"
+msgstr ""
+
+#: inc/the100_sanitizer.php:119 inc/assets/header-settings.php:33
+#: inc/assets/home-settings.php:250 inc/assets/home-settings.php:352
+#: inc/assets/home-settings.php:397 inc/assets/home-settings.php:477
+#: inc/assets/home-settings.php:575 inc/assets/home-settings.php:706
+#: inc/widgets/the100_cta.php:68
+msgid "Layout Two"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/the100_sanitizer.php:104 inc/assets/home-settings.php:158
+msgid "Left Aligned"
+msgstr ""
+
+#: functions.php:51
+msgid "Left of Logo"
+msgstr ""
+
+#: header.php:115 templates/template-boxed.php:122
+#: templates/template-grid.php:130 templates/template-list-full.php:130
+msgid "Left of Logo Menu"
+msgstr ""
+
+#: functions.php:112 inc/the100_sanitizer.php:60
+#: inc/assets/inner-settings.php:32 inc/assets/inner-settings.php:104
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/the100_metabox.php:33
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/assets/social-settings.php:79
+msgid "Linkedin"
+msgstr ""
+
+#: inc/the100_sanitizer.php:78 inc/assets/inner-settings.php:59
+msgid "List View"
+msgstr ""
+
+#: inc/the100_sanitizer.php:47
+msgid "Logo and Menu at Center"
+msgstr ""
+
+#: inc/the100_sanitizer.php:46
+msgid "Logo and Menu at Left with ads"
+msgstr ""
+
+#: inc/the100_sanitizer.php:48
+msgid "Logo and Menu at Right with ads"
+msgstr ""
+
+#: inc/assets/footer-settings.php:61
+msgid "Main Footer"
+msgstr ""
+
+#: inc/assets/header-settings.php:108
+msgid "Main Header"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Manage Basic Setups for the site"
+msgstr ""
+
+#: inc/assets/header-settings.php:111
+msgid ""
+"Manage Logo from Customize > Header Settings > Site Identity & Navigation "
+"from Customize > Menus"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/the100_sanitizer.php:92 inc/assets/footer-settings.php:35
+#: inc/assets/footer-settings.php:95 inc/assets/header-settings.php:64
+#: inc/assets/header-settings.php:98 inc/assets/header-settings.php:144
+#: inc/assets/header-settings.php:162 inc/assets/home-settings.php:34
+#: inc/assets/home-settings.php:72 inc/assets/home-settings.php:91
+#: inc/assets/home-settings.php:126 inc/assets/home-settings.php:185
+#: inc/assets/home-settings.php:212 inc/assets/home-settings.php:296
+#: inc/assets/home-settings.php:380 inc/assets/home-settings.php:461
+#: inc/assets/home-settings.php:493 inc/assets/home-settings.php:536
+#: inc/assets/home-settings.php:602 inc/assets/home-settings.php:636
+#: inc/assets/home-settings.php:690 inc/assets/home-settings.php:772
+msgid "No"
+msgstr ""
+
+#: inc/the100_sanitizer.php:103 inc/assets/home-settings.php:157
+msgid "No caption"
+msgstr ""
+
+#: inc/the100_widgets.php:102
+msgid "No file chosen"
+msgstr ""
+
+#: inc/the100_sanitizer.php:62 inc/assets/inner-settings.php:34
+#: inc/assets/inner-settings.php:106
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/the100_metabox.php:43
+msgid "No sidebar"
+msgstr ""
+
+#: inc/assets/home-settings.php:52 inc/assets/home-settings.php:268
+#: inc/assets/home-settings.php:335 inc/assets/home-settings.php:435
+#: inc/assets/home-settings.php:509 inc/assets/home-settings.php:618
+#: inc/assets/home-settings.php:662 inc/assets/home-settings.php:745
+msgid "Note: Parent Category are only listed in dropdown."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/content-page.php:20 template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#: inc/assets/home-settings.php:647
+msgid "Partner Section Title"
+msgstr ""
+
+#: inc/assets/social-settings.php:64
+msgid "Pinterest"
+msgstr ""
+
+#: welcome/step-demo.php:16
+msgid ""
+"Please check the plugins folder inside theme and upload the zip of plugins "
+"from plugin uploader."
+msgstr ""
+
+#: welcome/step-demo.php:2
+msgid ""
+"Please install Recommended Plugins for demo to be imported completely. And "
+"Make sure you download demo in a fresh install.  Your Old Data might be "
+"deleted."
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: header.php:153 templates/template-boxed.php:160
+#: templates/template-grid.php:168 templates/template-list-full.php:168
+msgid "Primary Menu"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: welcome/the100_about.php:95
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/the100_widgets.php:107 inc/the100_widgets.php:117
+#: inc/the100_widgets.php:178
+msgid "Remove"
+msgstr ""
+
+#: welcome/step-second.php:49
+msgid "Required"
+msgstr ""
+
+#: welcome/the100_about.php:459
+msgid "Restaurant Demo"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Resturant Demo Layout"
+msgstr ""
+
+#: inc/the100_sanitizer.php:61 inc/assets/inner-settings.php:33
+#: inc/assets/inner-settings.php:105
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/the100_metabox.php:38
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: welcome/step-third.php:20
+msgid "See our full documentation"
+msgstr ""
+
+#: inc/assets/home-settings.php:508
+msgid "Select a category to show in About Section"
+msgstr ""
+
+#: inc/assets/home-settings.php:744
+msgid "Select a category to show in blog"
+msgstr ""
+
+#: inc/assets/home-settings.php:267
+msgid "Select a category to show in Featured"
+msgstr ""
+
+#: inc/assets/home-settings.php:434
+msgid "Select a category to show in gallery"
+msgstr ""
+
+#: inc/assets/home-settings.php:661
+msgid "Select a category to show in partner"
+msgstr ""
+
+#: inc/assets/home-settings.php:51
+msgid "Select a category to show in slider"
+msgstr ""
+
+#: inc/assets/home-settings.php:334
+msgid "Select a category to show in team"
+msgstr ""
+
+#: inc/assets/home-settings.php:617
+msgid "Select a category to show in testimonial"
+msgstr ""
+
+#: inc/assets/home-settings.php:489
+msgid "Select About Page"
+msgstr ""
+
+#: inc/extras.php:58
+msgid "Select Parent category"
+msgstr ""
+
+#: inc/assets/header-settings.php:141
+msgid ""
+"Select yes to enable cart icon on main header beside menu. WooCommerce shall "
+"be installed to function it."
+msgstr ""
+
+#: inc/assets/header-settings.php:159
+msgid "Select yes to enable search icon on main header beside menu."
+msgstr ""
+
+#: inc/assets/header-settings.php:94
+msgid ""
+"Select yes to enable social icons on top header. To Manage Social Icons, go "
+"to Appearance > Customize > Social Icons"
+msgstr ""
+
+#: inc/assets/header-settings.php:60
+msgid "Select yes to enable top header."
+msgstr ""
+
+#: inc/assets/home-settings.php:686
+msgid "Select Yes to show blog section on homepage."
+msgstr ""
+
+#: inc/assets/home-settings.php:208
+msgid "Select Yes to show featured posts on homepage."
+msgstr ""
+
+#: inc/assets/home-settings.php:376
+msgid "Select Yes to show gallery section on homepage."
+msgstr ""
+
+#: inc/assets/home-settings.php:632
+msgid "Select Yes to show partner section on homepage."
+msgstr ""
+
+#: inc/assets/home-settings.php:30
+msgid "Select Yes to show Slider on homepage."
+msgstr ""
+
+#: inc/assets/home-settings.php:292
+msgid "Select Yes to show team section on homepage."
+msgstr ""
+
+#: inc/assets/home-settings.php:598
+msgid "Select Yes to show testimonial section on homepage."
+msgstr ""
+
+#: welcome/step-first.php:14
+msgid ""
+"Set page you created to load a custom template \"Homepage\" that came with "
+"theme and set it as frontpage."
+msgstr ""
+
+#: inc/assets/footer-settings.php:8
+msgid "Setup footer of the site."
+msgstr ""
+
+#: inc/assets/header-settings.php:8
+msgid "Setup header of the site."
+msgstr ""
+
+#: inc/assets/home-settings.php:8
+msgid "Setup Homepage of the site."
+msgstr ""
+
+#: inc/assets/inner-settings.php:8
+msgid "Setup inner of the site."
+msgstr ""
+
+#: inc/assets/home-settings.php:673
+msgid "Setup the blog settings for homepage"
+msgstr ""
+
+#: inc/assets/home-settings.php:195
+msgid "Setup the featured posts settings for homepage"
+msgstr ""
+
+#: inc/assets/home-settings.php:363
+msgid "Setup the gallery settings for homepage"
+msgstr ""
+
+#: inc/assets/home-settings.php:17
+msgid "Setup the slider settings for homepage"
+msgstr ""
+
+#: inc/assets/home-settings.php:279
+msgid "Setup the team settings for homepage"
+msgstr ""
+
+#: inc/assets/home-settings.php:558
+msgid "Setup the testimonial & partner settings for homepage"
+msgstr ""
+
+#: templates/template-boxed.php:85 templates/template-boxed.php:185
+#: templates/template-grid.php:93 templates/template-grid.php:193
+#: templates/template-list-full.php:93 templates/template-list-full.php:193
+msgid "Shopping Cart"
+msgstr ""
+
+#: functions.php:103
+msgid "Sidebar"
+msgstr ""
+
+#. $id
+#: inc/the100_metabox.php:13 inc/the100_metabox.php:21
+msgid "Sidebar Layout"
+msgstr ""
+
+#: header.php:24 templates/template-boxed.php:28 templates/template-grid.php:36
+#: templates/template-list-full.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: inc/the100_sanitizer.php:35 inc/assets/home-settings.php:109
+msgid "Slide"
+msgstr ""
+
+#: inc/assets/home-settings.php:153
+msgid "Slider Caption"
+msgstr ""
+
+#: inc/assets/home-settings.php:87
+msgid "Slider Controls"
+msgstr ""
+
+#: inc/assets/home-settings.php:68
+msgid "Slider Pager"
+msgstr ""
+
+#: inc/assets/home-settings.php:15
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/assets/social-settings.php:6
+msgid "Social Settings"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: welcome/the100_about.php:392
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: welcome/the100_about.php:304
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/step-first.php:10
+msgid "Step 1"
+msgstr ""
+
+#: welcome/step-first.php:21
+msgid "Step 2"
+msgstr ""
+
+#: welcome/step-first.php:29
+msgid "Step 3"
+msgstr ""
+
+#: welcome/step-first.php:38
+msgid "Step 4"
+msgstr ""
+
+#: welcome/the100_about.php:103
+msgid "Support"
+msgstr ""
+
+#: welcome/step-third.php:7
+msgid "support@8degreethemes.com"
+msgstr ""
+
+#: inc/assets/footer-settings.php:78
+msgid "Supports Html"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/assets/home-settings.php:319
+msgid "Team Section Description"
+msgstr ""
+
+#: inc/assets/home-settings.php:308
+msgid "Team Section Title"
+msgstr ""
+
+#: inc/assets/home-settings.php:277
+msgid "Team Settings"
+msgstr ""
+
+#: inc/the100_sanitizer.php:19
+msgid "Template 1"
+msgstr ""
+
+#: inc/the100_sanitizer.php:20
+msgid "Template 2"
+msgstr ""
+
+#: inc/the100_sanitizer.php:21
+msgid "Template 3"
+msgstr ""
+
+#: inc/the100_sanitizer.php:22
+msgid "Template 4"
+msgstr ""
+
+#: inc/the100_sanitizer.php:23
+msgid "Template 5"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Template Settings"
+msgstr ""
+
+#: inc/assets/home-settings.php:586
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: inc/assets/home-settings.php:556
+msgid "Testimonials & Partner Settings"
+msgstr ""
+
+#: inc/assets/header-settings.php:124
+msgid "Texts on Main Header"
+msgstr ""
+
+#: inc/assets/header-settings.php:77
+msgid "Texts on Top Header"
+msgstr ""
+
+#: footer.php:37
+msgid "The 100"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"The 100 is a free WordPress multipurpose theme useful for different business "
+"or personal purposes."
+msgstr ""
+
+#. Name of the theme
+msgid "The100"
+msgstr ""
+
+#: welcome/the100_about.php:80
+msgid ""
+"The100 is now installed and ready to use! Get ready to build something "
+"beautiful. We hope you enjoy it! We want to make sure you have the best "
+"experience using The100 and that is why we gathered here all the necessary "
+"information for you. We hope you will enjoy using The100, as much as we "
+"enjoy creating great products."
+msgstr ""
+
+#: inc/widgets/the100_cta.php:21
+msgid "The100: Call to Action"
+msgstr ""
+
+#: welcome/the100_about.php:421
+msgid "There was an error activating $api->name"
+msgstr ""
+
+#: welcome/step-third.php:17
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and outs "
+"of using our theme."
+msgstr ""
+
+#: inc/widgets/the100_cta.php:35 inc/widgets/the100_cta.php:95
+msgid "Title"
+msgstr ""
+
+#: functions.php:148 inc/assets/footer-settings.php:14
+msgid "Top Footer"
+msgstr ""
+
+#: inc/assets/header-settings.php:43
+msgid "Top Header"
+msgstr ""
+
+#: inc/assets/home-settings.php:105
+msgid "Transition Type"
+msgstr ""
+
+#: inc/assets/social-settings.php:34
+msgid "Twitter"
+msgstr ""
+
+#: inc/the100_widgets.php:110
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/the100_widgets.php:105 inc/the100_widgets.php:177
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/the100_cta.php:41
+msgid "Upload Image"
+msgstr ""
+
+#: welcome/step-first.php:40
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: welcome/step-second.php:57
+msgid "Version:"
+msgstr ""
+
+#: welcome/step-third.php:26
+msgid "Video Tutorials"
+msgstr ""
+
+#: inc/the100_widgets.php:128
+msgid "View File"
+msgstr ""
+
+#: header.php:78 header.php:175 templates/template-boxed.php:82
+#: templates/template-boxed.php:182 templates/template-grid.php:90
+#: templates/template-grid.php:190 templates/template-list-full.php:90
+#: templates/template-list-full.php:190
+msgid "View your shopping cart"
+msgstr ""
+
+#: welcome/step-third.php:7
+msgid ""
+"We offer excellent support through our website support forum. Just Register "
+"and Post your query and you will be responded by one of our representatives. "
+"Or you can send email at "
+msgstr ""
+
+#: welcome/step-first.php:12
+msgid ""
+"We've made a checklist for you to take while setting up with our theme. Go "
+"through this and you can have your website ready in minutes."
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Web Layout Setting"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Website Layout"
+msgstr ""
+
+#: welcome/the100_about.php:77
+msgid "Welcome to The100! - Version "
+msgstr ""
+
+#: welcome/the100_about.php:269
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing The100! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/assets/inner-settings.php:86
+msgid "Woocommerce Page Layout"
+msgstr ""
+
+#: footer.php:37
+msgid "WordPress Theme : "
+msgstr ""
+
+#: inc/the100_sanitizer.php:91 inc/assets/footer-settings.php:34
+#: inc/assets/footer-settings.php:94 inc/assets/header-settings.php:63
+#: inc/assets/header-settings.php:97 inc/assets/header-settings.php:143
+#: inc/assets/header-settings.php:161 inc/assets/home-settings.php:33
+#: inc/assets/home-settings.php:71 inc/assets/home-settings.php:90
+#: inc/assets/home-settings.php:125 inc/assets/home-settings.php:184
+#: inc/assets/home-settings.php:211 inc/assets/home-settings.php:295
+#: inc/assets/home-settings.php:379 inc/assets/home-settings.php:460
+#: inc/assets/home-settings.php:492 inc/assets/home-settings.php:535
+#: inc/assets/home-settings.php:601 inc/assets/home-settings.php:635
+#: inc/assets/home-settings.php:689 inc/assets/home-settings.php:771
+msgid "Yes"
+msgstr ""
+
+#: welcome/step-third.php:31
+msgid "YoutTube Videos"
+msgstr ""
+
+#: inc/assets/social-settings.php:93
+msgid "YouTube"
+msgstr ""
